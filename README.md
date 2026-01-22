@@ -14,6 +14,7 @@ VR 화학 실험실 안전 교육 시뮬레이션
 ## 담당 역할 (Technical Lead)
 - 용액이 담긴 실린더를 비커에 혼합하는 과정
 - 위험 용액을 혼합하면 가스,폭발 파티클 생성
+- 담당 스크립트 : Beaker.cs, BeakerDetector.cs, Cylinder.cs
 
 ## 🦾 기술 스택
 - 언어 : C#
