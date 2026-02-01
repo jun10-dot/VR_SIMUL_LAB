@@ -1,5 +1,4 @@
 # (VR)Laboratory
-VR 화학 실험실 안전 교육 시뮬레이션
 
 [프로젝트 상세 설명 (Notion)](https://www.notion.so/VR-Laboratory-2edbe5889bd78071bc07fae0c4cf4874)
 
